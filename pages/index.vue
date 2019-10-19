@@ -3,25 +3,18 @@
     <div>
       <logo />
       <h1 class="title">
-        static-test-site
+        static-test-site from Sebastian Neumair
       </h1>
       <h2 class="subtitle">
         Test for Vue.js based static page
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="/about"
           target="_blank"
           class="button--green"
         >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
+          About Me
         </a>
       </div>
     </div>
